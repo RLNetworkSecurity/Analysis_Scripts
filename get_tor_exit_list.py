@@ -5,7 +5,6 @@ IP addresses and output as a list file type.
 Author: RLNetworkSecurity - RLNetworkSecurity.co.uk
 """
 
-import os
 from urllib.request import urlopen
 import re
 
